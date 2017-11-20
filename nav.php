@@ -1,7 +1,5 @@
 <div class="nav">
     <a<?php if($this->is('index')): ?> class="a"<?php endif; ?> href="<?php $this->options->siteUrl(); ?>"><?php _e('首页'); ?></a>
-    <a href="https://tucao.moe" target="_blank">社区</a>
-    <a href="https://song.acg.sx" target="_blank">电台</a>
     <?php $this->widget('Widget_Contents_Page_List')->to($pages); ?>
     <?php while($pages->next()): ?>
     <a<?php if($this->is('page', $pages->slug)): ?> class="a"<?php endif; ?> href="<?php $pages->permalink(); ?>"><?php $pages->title(); ?></a>
