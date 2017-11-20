@@ -1,4 +1,4 @@
-主题介绍
+#### 主题介绍
 
 情托于物。人情冷暖，世态炎凉。
 首先说明下，CatUI/blob/master主题所有版权归属 折影轻梦 所有。
@@ -21,24 +21,24 @@
 新增友链页面！
 要了解更多请下载试用。
 
-主题欣赏
+#### 主题欣赏
 
-主页
+**主页**
 ![image](https://github.com/galnetwen/CatUI/blob/master/Screenshot/20171118175157.png)
 
-底部聚合
+**底部聚合**
 ![image](https://github.com/galnetwen/CatUI/blob/master/Screenshot/20171118175239.png)
 
-文章正文
+**文章正文**
 ![image](https://github.com/galnetwen/CatUI/blob/master/Screenshot/20171118175827.png)
 
-评论列表
+**评论列表**
 ![image](https://github.com/galnetwen/CatUI/blob/master/Screenshot/20171118175839.png)
 
-友链页面
+**友链页面**
 ![image](https://github.com/galnetwen/CatUI/blob/master/Screenshot/20171118175907.png)
 
-主题设置
+**主题设置**
 ![image](https://github.com/galnetwen/CatUI/blob/master/Screenshot/20171118202607.png)
 
 下载 zip 压缩包的朋友请把主题文件夹改名为 CatUI 。
